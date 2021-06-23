@@ -1,6 +1,9 @@
-hoola, estoy empeando a crear este archivo
+hoola, estoy empeando a crear este file
 este archivo sera para realiar pruebas con GIT
 
 estas son las primeras lineas
 
-espero aprender mucho
+espero aprender mucho mas
+
+este vendria siendo el primer cambio
+
