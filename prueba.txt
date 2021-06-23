@@ -3,7 +3,9 @@ este archivo sera para realiar pruebas con GIT
 
 estas son las primeras lineas
 
-espero aprender mucho mas
+espero aprender mucho mas y mas y mas....
 
 este vendria siendo el primer cambio
+
+estos son los cambios en la nueva rama, estamos haciendo muchos cambios
 
