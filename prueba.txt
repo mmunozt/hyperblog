@@ -15,6 +15,7 @@ seguimos cambiando
 
 le agrego mas y mas cambios
 
+<<<<<<< HEAD
 le agrego lineas para que se vean reflejadas en GitHub
 
 nuevos cambios agregados.........
@@ -23,3 +24,7 @@ esta edicion proviene desde GitHub
 
 esta edicion proviene desde linux
 
+=======
+
+nuevos cambios realizados en la rama nueva
+>>>>>>> rama_nueva
