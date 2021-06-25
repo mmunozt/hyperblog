@@ -1,6 +1,8 @@
 hoola, estoy empeando a crear este file
 este archivo sera para realiar pruebas con GIT
 
+edicion con SSH
+
 cambios realizados al principio del archivo desde la rama master
 
 estas son las primeras lineas
